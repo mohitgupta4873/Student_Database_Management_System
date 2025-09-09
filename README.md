@@ -1,4 +1,5 @@
 Student-database-management-system
+
 A simple GUI project made with tkinter and sqlite3 for Students Database Management System.
 
 Table of Content
@@ -13,7 +14,9 @@ In this project, you can do the following:
 
 Add new student.
 Update a specific student.
+
 Delete a specific student.
+
 Search for a specific student or multiple students by
 First Name
 Last Name
